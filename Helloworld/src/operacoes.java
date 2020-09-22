@@ -83,7 +83,7 @@ public class operacoes {
     }
 
     public static float divisao(int numero1, int numero2){
-        return numero1 / numero2;
+        return (float)numero1 / (float)numero2;
     }
 
     public static int multiplicacao(int numero1, int numero2){
